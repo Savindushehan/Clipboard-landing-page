@@ -505,5 +505,8 @@ footer .culum3{
         margin-right: auto;
         align-items: center;
     }
+    .icon img{
+        margin-bottom: 4rem;
+    }
 
 }
